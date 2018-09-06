@@ -1,0 +1,2 @@
+[12-Jul-2018 13:37:12 Europe/Berlin] PHP Notice:  Undefined variable: NL_ADMINSITE in /home/peter/Adathalom/public_html/minicms/content/admin.php on line 50
+[12-Jul-2018 13:37:12 Europe/Berlin] PHP Notice:  Undefined variable: NL_STORED in /home/peter/Adathalom/public_html/minicms/content/admin.php on line 114

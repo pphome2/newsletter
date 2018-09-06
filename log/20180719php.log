@@ -1,0 +1,205 @@
+[19-Jul-2018 12:21:35 Europe/Berlin] PHP Notice:  Undefined variable: c in /home/peter/Adathalom/public_html/minicms/content/index.php on line 77
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: NL_DATA_FILE in /home/peter/Adathalom/public_html/minicms/content/index.php on line 20
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: NL_INFO_FILE in /home/peter/Adathalom/public_html/minicms/content/index.php on line 21
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: NL_HEADER in /home/peter/Adathalom/public_html/minicms/content/index.php on line 41
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: NL_JS_BEGIN in /home/peter/Adathalom/public_html/minicms/content/index.php on line 45
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: L_ERROR in /home/peter/Adathalom/public_html/minicms/content/index.php on line 103
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: L_FILENOTFOUND in /home/peter/Adathalom/public_html/minicms/content/index.php on line 103
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: L_INFOPANEL in /home/peter/Adathalom/public_html/minicms/content/index.php on line 109
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: L_FILENOTFOUND in /home/peter/Adathalom/public_html/minicms/content/index.php on line 124
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: NL_JS_END in /home/peter/Adathalom/public_html/minicms/content/index.php on line 134
+[19-Jul-2018 13:14:26 Europe/Berlin] PHP Notice:  Undefined variable: NL_FOOTER in /home/peter/Adathalom/public_html/minicms/content/index.php on line 138
+[19-Jul-2018 13:32:33 Europe/Berlin] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:44:24 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 13:47:28 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 8
+[19-Jul-2018 13:50:20 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:50:35 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:50:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:50:55 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:51:40 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:51:41 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:52:18 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:52:35 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:52:49 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:01 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:13 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:25 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:32 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:33 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:34 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:47 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:48 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:53:55 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:54:16 Europe/Berlin] PHP Notice:  Undefined offset: 0 in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 13:59:06 Europe/Berlin] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 13
+[19-Jul-2018 14:19:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:19:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:19:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:19:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:19:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:19:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:19:44 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:19:44 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:19:44 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:19:44 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:19:44 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:19:44 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:20:44 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:20:44 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:20:44 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:20:44 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:20:44 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:20:44 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:20:56 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:20:56 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:20:56 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:20:56 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:20:56 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:20:56 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:21:12 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:21:12 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:21:12 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:21:12 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:21:12 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:21:12 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:21:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:12 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:12 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:12 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:12 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:12 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:12 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:13 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:22:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:22:14 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:22:14 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:24:42 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 10
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Array to string conversion in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:24:43 Europe/Berlin] PHP Notice:  Undefined variable: Array in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 11
+[19-Jul-2018 14:41:09 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:41:09 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_DATA in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:41:09 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_TIME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:46:13 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:46:13 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_DATA in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:46:13 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_TIME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:46:33 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 7
+[19-Jul-2018 14:46:33 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_DATA in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 8
+[19-Jul-2018 14:46:33 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIE_TIME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.js on line 9
+[19-Jul-2018 14:48:23 Europe/Berlin] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER) in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 18
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.css): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.css' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 10
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 10
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 18
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:45:21 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.css): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.css' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 19
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:46:23 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.css): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.css' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 10
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 10
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 18
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:46:43 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:47:01 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 4
+[19-Jul-2018 15:47:01 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 10
+[19-Jul-2018 15:47:01 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 10
+[19-Jul-2018 15:47:01 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 18
+[19-Jul-2018 15:47:01 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:47:01 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:47:01 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 27
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.css): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.css' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 19
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:39 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.css): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.css' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 19
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:40 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.css): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.css' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 19
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.css): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.css' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 5
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_COOKIES_NAME in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 11
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PRIVACY_POLICY in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 19
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Notice:  Undefined variable: SYS_PLUGINS_DIR in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(/gdpr/gdpr.js): failed to open stream: No such file or directory in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28
+[19-Jul-2018 15:48:41 Europe/Berlin] PHP Warning:  include(): Failed opening '/gdpr/gdpr.js' for inclusion (include_path='.:/usr/share/php') in /home/peter/Adathalom/public_html/minicms/plugins/gdpr/gdpr.php on line 28

@@ -1,0 +1,48 @@
+<?php
+
+ #
+ # Newsletter - mail adress add and delete
+ #
+ # info: main folder copyright file
+ #
+ #
+
+# language
+$L_SITEHOME="Nyitólap";
+$L_NLHOME="Hírlevél";
+$L_SITENAME="Hírlevél feliratkozások kezelése";
+$L_SITENAME_SHORT="Hírlevél";
+
+$L_INFOPANEL="Információ az adattárolásról, adatvédelmi nyilatkozat és adatkezelési szabályzat";
+$L_MAILADDRESS="E-mail cím megadása";
+
+$L_FILENOTFOUND="Fájl nem található.";
+$L_EMAIL="Címem";
+$L_SIGN="Feliratkozás kezelése";
+$L_SIGNED="Ön már feliratkozott a hírlevélre.";
+$L_NOSIGNED="Ön még nem iratkozott fel a hírlevélre.";
+$L_SIGNED_OUT="Leliratkozom. Kérem, töröljék adataimat";
+$L_SIGNED_IN="Feliratkozom. Ismerem és elfogadom az adatkezelési szabályzatot és az adatvédelmi nyilatkozatot.";
+
+$L_INFO_NOT_FOUND="Információ nem elérhető.";
+$L_NODATA="Adat nem érkezett.";
+$L_BADMAIL="Az e-mail cím formátuma nem megfelelő.";
+
+$L_BUTTON_ALL="Tovább";
+$L_ERROR="Hiba történt";
+$L_MESSAGE="Üzenet";
+$L_CHECK_DATAPROTECTION="Ismerem és elfogadom az adatkezelési szabályzatot és az adatvédelmi nyilatkozatot.";
+
+$L_OK="Kész. Visszalépés a főoldalra.";
+
+$L_ADMINSITE="Adminisztráció";
+
+$L_ADMIN_ADDRESSES="Tárolt e-mail címek";
+$L_BUTTON_PRINT="Nyomtatás";
+$L_PRINT="Nyomtatás";
+$L_ADMIN_IDENTIFICATION="Azonosítás";
+$L_PASS="Kérem adja meg az adminisztrációs jelszót";
+$L_BADPASS="A megadott jelszó nem megfelelő.";
+$L_STORED="Tárolt e-mail címek száma";
+
+?>

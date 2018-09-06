@@ -1,0 +1,10 @@
+Use plugin system:
+
+- use own config, language file, javascript file and css file and stored it local
+- system starting index.php, you need use include() for config
+- system give you:
+     $SYS_PLUGINS_DIR - plugin directory
+     example: $fl=$SYS_PLUGINS_DIR."myplugin/some.css"; include($fl);
+- use variable to test plugin:
+     $MYPLUGIN=true; function myplugin(); - in plugin file
+     if (isset($MYPLUGIN)){ myplugin();}  - place to use it

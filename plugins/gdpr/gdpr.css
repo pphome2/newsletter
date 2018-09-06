@@ -1,0 +1,45 @@
+<style>
+	#cookie-bar.fixed {
+		position: fixed;
+		left: 0;
+		bottom: 0;
+		z-index: 100;
+	}
+
+	#cookie-bar {
+		line-height: 24px;
+		color: #eeeeee;
+		text-align: center;
+		padding: 5px;
+		padding-top:10px;
+		width: 100%;
+		color: white;
+		background-color: #444;
+	}
+
+	.cookie-bar-enable {
+		border-radius: 10%;
+		margin-left: 100px;
+		color: white;
+		padding: 5px;
+		border-radius: 10%;
+		font-family: serif;
+		text-decoration: none;
+		background-color: darkcyan;
+		transition: .3s background-color;
+	}
+        
+	.cookie-bar-enable:hover {
+		background-color: cyan;
+		color:black;
+	}
+        
+	.cookie-bar-policy {
+		color: white;
+		text-decoration: underline;
+	}
+        
+	.cookie-bar-policy:hover {
+		color: darkcyan;
+	}
+</style>

@@ -1,0 +1,110 @@
+<style>
+
+/* image box */
+
+.im-box {
+	text-align:center;
+	width:100%;
+	margin:auto;
+}
+
+.im-littlebox {
+	text-align:center;
+	width:70%;
+	margin:auto;
+}
+
+
+/* image auto slider */
+
+.im-myAutoSlides {
+	display:none;
+	max-width:80%;
+	margin:auto;
+}
+
+
+/* image slider */
+
+.im-mySlides {
+	display:none;
+	width:100%;
+	margin:auto;
+}
+
+.im-badge{
+    background-color:#000;
+    color:black;
+    display:inline-block;
+    padding-left:8px;
+    padding-right:8px;
+    border:1px solid;
+    text-align:center;
+    text-decoration:none;
+    border-radius:50%
+}
+
+.im-badge-light{
+	opacity:1;
+	color:#737373!important;
+	background-color:#737373!important;
+}
+
+.im-badge-light:hover{
+	opacity:1;
+	cursor:pointer;
+}
+
+.im-badge-nolight{
+	opacity:0.5;
+}
+
+.im-badge-nolight:hover{
+	opacity:1;
+	cursor:pointer;
+}
+
+
+/* buttons */
+
+.im-bottomleft, .im-bottomleftmenu{
+    text-decoration:none;
+    float:left;
+    padding:2px;
+    color:black;
+}
+
+.im-bottomleftmenu:after{
+    content:"arrow_backward";
+    font-family: "Material Icons";
+    font-size:1.5em;
+    cursor:pointer;
+}
+
+.im-bottomright, .im-bottomrightmenu{
+    text-decoration:none;
+    float:right;
+    padding:2px;
+    color:black;
+}
+
+.im-bottomrightmenu:after{
+    content:"arrow_forward";
+    font-family: "Material Icons";
+    font-size:1.5em;
+    cursor:pointer;
+}
+
+.im-bottomcenter {
+    text-decoration:none;
+    position:absolute;
+    padding:5px;
+    left: 50%;
+    transform:translate(-50%,0%);
+    -ms-transform:translate(-50%,0%);
+}
+
+
+
+
+</style>

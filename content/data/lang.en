@@ -1,0 +1,50 @@
+<?php
+
+ #
+ # Newsletter - mail address add and delete
+ #
+ # info: main folder copyright file
+ #
+ #
+
+# Please correct this: it' translated by google...
+
+# language
+$ L_SITEHOME = "Home";
+$ L_NLHOME = "Newsletter";
+$ L_SITENAME = "Managing Newsletter Subscriptions";
+$ L_SITENAME_SHORT = "Newsletter";
+
+$ L_INFOPANEL = "Information on Data Storage, Privacy Statement, and Privacy Policy";
+$ L_MAILADDRESS = "Enter an Email Address";
+
+$ L_FILENOTFOUND = "File not found.";
+$ L_EMAIL = "title";
+$ L_SIGN = "Manage Subscriptions";
+$ L_SIGNED = "You are already subscribed to the newsletter.";
+$ L_NOSIGNED = "You have not subscribed to the newsletter yet.";
+$ L_SIGNED_OUT = "I'm signing in. Please delete my details";
+$ L_SIGNED_IN = "I subscribe. I know and agree to the Privacy Policy and Privacy Policy.";
+
+$ L_INFO_NOT_FOUND = "Information is not available.";
+$ L_NODATA = "No data received.";
+$ L_BADMAIL = "The email address format is not correct.";
+
+$ L_BUTTON_ALL = "Next";
+$ L_ERROR = "An error occurred";
+$ L_MESSAGE = "Message";
+$ L_CHECK_DATAPROTECTION = "I know and agree to the Privacy Policy and Privacy Policy.";
+
+$ L_OK = "Done. Go back to the main page.";
+
+$ L_ADMINSITE = "Administration";
+
+$ L_ADMIN_ADDRESSES = "Stored Email Addresses";
+$ L_BUTTON_PRINT = "Print";
+$ L_PRINT = "Print";
+$ L_ADMIN_IDENTIFICATION = "Identity";
+$ L_PASS = "Please enter the administrative password";
+$ L_BADPASS = "The password you entered is not correct.";
+$ L_STORED = "Stored e-mail addresses";
+
+?>
