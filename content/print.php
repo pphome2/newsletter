@@ -22,15 +22,18 @@ $nodata=true;
 $pass="";
 
 # check password
-if (isset($_POST["submitall"])){
+if (isset($_POST["usermd5pass"])){
 	$nodata=false;
-	if (isset($_POST["usermd5pass"])){
-		$pass=$_POST["usermd5pass"];
-		if ($pass==$NL_PASS) {
-			$passok=true;
-		}
+	$pass=$_POST["usermd5pass"];
+	$pa=explode($NL_SEPCHAR,$pass);
+	#echo($pass.' '.$pa[0].'-'.$pa[1]);
+	$t=time();
+	$at=$t-$pa[1];
+	if (($pa[0]==$NL_PASS)and($at<$NL_LOGIN_TIMEOUT)) {
+		$passok=true;
 	}
 }
+
 
 echo("<br /><br /><br /><center>");
 echo("<h1>$L_ADMIN_ADDRESSES - $L_PRINT</h1>");
@@ -40,8 +43,7 @@ if ($passok){
 	# load data from file
 	if (file_exists($datfile)){
 		$sch=file_get_contents($datfile);
-	
-   		$tfa=explode(PHP_EOL,$sch);
+		$tfa=explode(PHP_EOL,$sch);
 		$db=count($tfa);
 		$db2=$db-1;
 		echo($L_STORED.": ".$db2);

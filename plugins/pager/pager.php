@@ -46,15 +46,17 @@ function pager($db,$dbperpage,$data,$beforetags,$aftertags,$forminputid,$forminp
 	$last=round($db/$dbperpage,0);
 
 	echo("<div class=pl-pagination>");
-	echo("<form method=post>");
+	echo("<form id='privatepager' method=post>");
 	echo("<input name=$forminputid id=$forminputid type=hidden value=\"$forminputdata\">");
 	echo("<input name=$pagename id=$pagename type=hidden value=\"?\">");
 	echo("<button name=$submitname id=$submitname type=submit style='display:none;'></button>");
-	echo("<form>");
-		$l2=$link."1";
-		echo("<a id=1 class=\"pl-first\"");
-		echo("onclick=\"document.getElementById('$pagename').value=1;document.getElementById('$submitname').click();return false;\">");
-		echo("</a>");
+	echo("</form>");
+		if ($last>1){
+			$l2=$link."1";
+			echo("<a id=1 class=\"pl-first\"");
+			echo("onclick=\"document.getElementById('$pagename').value=1;document.getElementById('$submitname').click();return false;\">");
+			echo("</a>");
+		}
 		if ($last>10){
 			for ($i=$apage-5;$i<$apage+5;$i++){
 				$l2=$link.$i;
@@ -80,10 +82,12 @@ function pager($db,$dbperpage,$data,$beforetags,$aftertags,$forminputid,$forminp
 				echo("$i</a>");
 			}
 		}
-		$l2=$link.$last;
-		echo("<a id=$last class=\"pl-last\"");
-		echo("onclick=\"document.getElementById('$pagename').value=$last;document.getElementById('$submitname').click();return false;\">");
-		echo("</a>");
+		if ($last>1){
+			$l2=$link.$last;
+			echo("<a id=$last class=\"pl-last\"");
+			echo("onclick=\"document.getElementById('$pagename').value=$last;document.getElementById('$submitname').click();return false;\">");
+			echo("</a>");
+		}
 	echo("</div>");
 
 	if (file_exists($SYS_PLUGINS_DIR."/pager/pager.js")){

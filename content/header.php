@@ -17,7 +17,7 @@
 <ul class="sidenav">
   <li><a class="active" href="<?php echo($NL_SITE_HOME); ?>"><span class='home_icon'><?php echo($L_SITEHOME); ?></span></a></li>
   <li><a href="<?php echo("../index.html"); ?>"><?php echo($L_NLHOME); ?></a></li>
-  <li style="float:right;"><a href="<?php echo("../index.html"); ?>"><div class='search_icon_link'></div></a></li>
+  <li style="float:right;"></li>
 </ul>
 </div>
 

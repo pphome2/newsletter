@@ -49,6 +49,11 @@ $NL_PARAM_DATA="dat";
 $NL_TABLE_COL=3;
 $NL_TABLE_PAGEROW=20;
 
+$NL_SEPCHAR="¤";
+
+# sec
+$NL_LOGIN_TIMEOUT=600;
+
 # re-decralated from sysconfig.sys
 $LANGUAGE=$SYS_CONTENT_DIR."data/lang.hu";
 $SYS_PRIVACY_POLICY=$SYS_CONTENT_DIR."privacy.php";

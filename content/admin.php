@@ -33,7 +33,11 @@ if (isset($_POST["userpass"])){
 if (isset($_POST["usermd5pass"])){
 	$nodata=false;
 	$pass=$_POST["usermd5pass"];
-	if ($pass==$NL_PASS) {
+	$pa=explode($NL_SEPCHAR,$pass);
+	#echo($pass.' '.$pa[0].'-'.$pa[1]);
+	$t=time();
+	$at=$t-$pa[1];
+	if (($pa[0]==$NL_PASS)and($at<$NL_LOGIN_TIMEOUT)) {
 		$passok=true;
 	}
 }
@@ -69,7 +73,7 @@ function message($head,$message){
 
 
 if ((!$passok)and(!$nodata)){
-	message($NL_ERROR,$NL_BADPASS);
+	message($L_ERROR,$L_BADPASS);
 }
 
 
@@ -113,44 +117,34 @@ if ($passok){
 		echo($L_STORED.": ".$db2);
 		$before="<div class=spaceline></div><center><table class=minitable><tr>";
 		$after="</tr></table></center><div class=spaceline></div>";
-		if (isset($PAGER)){
-			if ($db2>0){
-				$size=100/$NL_TABLE_COL;
-				$col=0;
-				$line=0;
-				$datat=array();
-				$datat[$line]="";
-				for($i=0;$i<$db;$i++){
-					$ki=htmlspecialchars($tfa[$i]);
-					if ($ki<>""){
-						if ($col==$NL_TABLE_COL){
-							$col=0;
-							$datat[$line]=$datat[$line]."</tr><tr>";
-							$line++;
-							$datat[$line]="";
-						}
-						$datat[$line]=$datat[$line]."<td style=\"width:$size;\">$ki</td>";
-						$col++;
+		if ($db2>0){
+			$size=100/$NL_TABLE_COL;
+			$col=0;
+			$line=0;
+			$datat=array();
+			$datat[$line]="";
+			for($i=0;$i<$db;$i++){
+				$ki=htmlspecialchars($tfa[$i]);
+				if ($ki<>""){
+					if ($col==$NL_TABLE_COL){
+						$col=0;
+						$datat[$line]=$datat[$line]."</tr><tr>";
+						$line++;
+						$datat[$line]="";
 					}
+					$datat[$line]=$datat[$line]."<td style=\"width:$size;\">$ki</td>";
+					$col++;
 				}
-				pager($line,$NL_TABLE_PAGEROW,$datat,$before,$after,"usermd5pass",$NL_PASS);
 			}
+		}
+		if (isset($PAGER)){
+			$p=$NL_PASS.$NL_SEPCHAR.time();
+			pager($line,$NL_TABLE_PAGEROW,$datat,$before,$after,"usermd5pass",$p);
 		}else{
 			echo($before);
-			if ($db2>0){
-				$size=100/$NL_TABLE_COL;
-				$col=0;
-				for($i=0;$i<$db;$i++){
-					$ki=htmlspecialchars($tfa[$i]);
-					if ($ki<>""){
-						if ($col==$NL_TABLE_COL){
-							$col=0;
-							echo("</tr><tr>");
-						}
-						echo("<td style=\"width:$size;\">$ki</td>");
-						$col++;
-					}
-				}
+			$dsor=count($datat);
+			for($i=0;$i<$dsor;$i++){
+				echo($datat[$i]);
 			}
 			echo($after);
 		}
@@ -170,7 +164,8 @@ if ($passok){
 
 		echo("<section id=form1>");
 		echo("<form action=$NL_PRINT_FILE id=2 method=post>");
-		echo("<input name=usermd5pass id=usermd5pass type=hidden value=\"$pass\">");
+		$p=$NL_PASS.$NL_SEPCHAR.time();
+		echo("<input name=usermd5pass id=usermd5pass type=hidden value=\"$p\">");
 		echo("<input type=submit id=submitall name=submitall value=$L_BUTTON_PRINT>");
 		echo("</form>");
 		echo("</section>");
