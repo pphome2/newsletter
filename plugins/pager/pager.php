@@ -29,11 +29,14 @@ function pager($db,$dbperpage,$data,$beforetags,$aftertags,$forminputid,$forminp
 	}
 
 	if (count($data)>0){
+		$dataline=count($data);
 		echo($beforetags);
 		$firstd=($apage-1)*$dbperpage;
 		$lastd=$firstd+$dbperpage;
 		for ($i=$firstd;$i<$lastd;$i++){
-			echo($data[$i]);
+			if ($i<$dataline){
+				echo($data[$i]);
+			}
 		}
 		echo($aftertags);
 	}

@@ -1,6 +1,0 @@
-[26-Jul-2018 13:10:02 Europe/Berlin] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/peter/Adathalom/public_html/minicms/plugins/imgslider/imgslider.php on line 15
-[26-Jul-2018 13:10:37 Europe/Berlin] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function imgslider(), 0 passed in /home/peter/Adathalom/public_html/minicms/content/img.php on line 126 and exactly 1 expected in /home/peter/Adathalom/public_html/minicms/plugins/imgslider/imgslider.php:7
-Stack trace:
-#0 /home/peter/Adathalom/public_html/minicms/content/img.php(126): imgslider()
-#1 {main}
-  thrown in /home/peter/Adathalom/public_html/minicms/plugins/imgslider/imgslider.php on line 7
